@@ -1,2 +1,2 @@
 # upiiz.teo.com
-Los porgramas de Teoría Computacional
+Los programas de Teoría Computacional
